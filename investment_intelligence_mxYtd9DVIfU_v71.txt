@@ -1,0 +1,91 @@
+
+🎯 INVESTMENT INTELLIGENCE REPORT
+Video ID: mxYtd9DVIfU
+Analysis Engine: TruScraper v7.1 - Investment Intelligence (FIXED)
+======================================================================
+
+📊 EXECUTIVE SUMMARY
+THESIS: Everyone is wrong about crypto in 2025. | KEY INSIGHT: Large institutions adopting crypto as legitimate asset class | PRIMARY RECOMMENDATION: INCREASE_ALLOCATION BTC/ETH with high conviction
+
+🎯 MAIN INVESTMENT THESIS
+Everyone is wrong about crypto in 2025.
+
+💼 INVESTMENT CASE
+FUNDAMENTAL DRIVERS: Institutional Adoption, Price Targets, Market Psychology, Bullish Momentum, Cycle Analysis | TIMEFRAME: LONG_TERM
+
+🚨 RISK ASSESSMENT
+No significant risks identified
+
+⚡ ACTION PLAN
+LONG-TERM: INCREASE_ALLOCATION BTC/ETH
+
+🔥 INVESTMENT SIGNALS (2 generated)
+
+🔥 HIGH CONVICTION:
+  • INCREASE_ALLOCATION BTC/ETH
+    Timeframe: LONG_TERM
+    Position Size: MEDIUM (10-20%)
+    Risk Level: MEDIUM
+    Rationale: Institutional adoption suggests longer cycles and reduced volatility
+
+
+⚠️ MEDIUM CONVICTION:
+  • HOLD_THROUGH_RESISTANCE BTC/ETH
+    Timeframe: 6-12_MONTHS
+    Position Size: MAINTAIN_CURRENT
+    Risk Level: MEDIUM
+    Rationale: Cycle analysis suggests traditional patterns may extend
+
+
+🎙️ VOICE CONVICTION ANALYSIS
+• Overall conviction: 1.00/1.0
+• Audio quality: good
+• Conviction category: EXTREME_CONVICTION
+• Analysis type: Simplified audio features
+
+🧠 SEMANTIC ANALYSIS
+Key Concepts Identified:
+  • Institutional Adoption
+    Definition: Large institutions adopting crypto as legitimate asset class
+    Confidence: 1.00
+    Implications: Long-term price support; Reduced volatility
+
+  • Price Targets
+    Definition: Specific price level predictions
+    Confidence: 0.88
+    Implications: Specific entry/exit levels; Risk management points
+
+  • Market Psychology
+    Definition: Analysis of market participant behavior and emotions
+    Confidence: 0.84
+    Implications: Counter-trend opportunities; Sentiment-based timing
+
+  • Bullish Momentum
+    Definition: Strong upward price momentum and positive sentiment
+    Confidence: 0.73
+    Implications: Continue holding; Consider adding positions
+
+  • Cycle Analysis
+    Definition: Analysis based on historical crypto market cycles
+    Confidence: 0.53
+    Implications: Timing market entries/exits; Multi-year perspective needed
+
+
+📈 ANALYSIS METRICS
+• Total segments processed: 562
+• Concepts identified: 5
+• Price targets found: 0
+• Investment signals: 2
+• Audio analysis: ✅ Complete
+
+======================================================================
+🎯 INVESTMENT INTELLIGENCE COMPLETE v7.1
+This analysis provides actionable investment recommendations based on:
+• Enhanced semantic understanding of crypto concepts
+• Improved price target extraction (150k, 7k patterns)
+• Logical argument flow mapping  
+• Simplified voice conviction detection
+• Professional investment decision framework
+
+⚠️  DISCLAIMER: This is AI analysis for informational purposes only.
+Always do your own research and consult financial advisors.
