@@ -5,10 +5,10 @@ Analysis Engine: TruScraper v7.1 - Investment Intelligence (FIXED)
 ======================================================================
 
 📊 EXECUTIVE SUMMARY
-THESIS: as we head into September to keep an eye out for it and see if this thesis comes | KEY INSIGHT: Specific price level predictions | PRIMARY RECOMMENDATION: BUY_DIP BTC with high conviction
+KEY INSIGHT: Specific price level predictions | PRIMARY RECOMMENDATION: BUY_DIP BTC with high conviction
 
 🎯 MAIN INVESTMENT THESIS
-as we head into September to keep an eye out for it and see if this thesis comes
+No clear thesis identified
 
 💼 INVESTMENT CASE
 FUNDAMENTAL DRIVERS: Price Targets, Institutional Adoption, Cycle Analysis | PRICE TARGETS: BTC $155,000 | TIMEFRAME: LONG_TERM, 1-3_MONTHS
