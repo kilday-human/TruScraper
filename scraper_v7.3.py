@@ -228,7 +228,7 @@ class CryptoSemanticEngine:
                         price = int(clean_match)
                     
                     # Only accept reasonable BTC prices (10k to 1M)
-                    if 75000 <= price <= 500000 and int(clean_match) not in [401] and int(clean_match) not in range(2020, 2030):
+                    if 75000 <= price <= 500000 and int(clean_match) not in [401] and int(clean_match) not in range(2008, 2035):
                         targets.append({
                             'asset': 'BTC',
                             'price': price,
@@ -261,7 +261,7 @@ class CryptoSemanticEngine:
                         price = int(clean_match)
                     
                     # Only accept reasonable ETH prices (100 to 50k)
-                    if 2000 <= price <= 50000 and int(clean_match) not in range(2020, 2030):
+                    if 2000 <= price <= 50000 and int(clean_match) not in range(2008, 2035):
                         targets.append({
                             'asset': 'ETH',
                             'price': price,
@@ -909,7 +909,7 @@ class AudioConvictionAnalyzer:
             file_size = os.path.getsize(audio_file) / (1024 * 1024)  # MB
             print(f"📁 Audio file size: {file_size:.1f} MB")
             
-            if file_size > 200:  # Skip very large files
+            if file_size > 300:  # Skip very large files
                 print("⚠️ Audio file too large, skipping detailed analysis")
                 return {'status': 'skipped_large_file'}
             
@@ -917,7 +917,7 @@ class AudioConvictionAnalyzer:
             print("🎵 Loading audio for analysis...")
             
             # Load just first 5 minutes for conviction analysis
-            y, sr = librosa.load(audio_file, sr=self.sample_rate, duration=900)  # 5 minutes max
+            y, sr = librosa.load(audio_file, sr=self.sample_rate, duration=1200)  # 5 minutes max
             
             if len(y) == 0:
                 print("❌ No audio data loaded")
@@ -1059,7 +1059,7 @@ class TruScraperV7:
             return None
         
         try:
-            print("🎵 Downloading audio (first 15 minutes)...")
+            print("🎵 Downloading audio (first 20 minutes)...")
             audio_file = f"audio_{video_id}.wav"
             
             # Download only first 5 minutes to avoid memory issues
@@ -1067,7 +1067,7 @@ class TruScraperV7:
                 'yt-dlp', 
                 '-x', '--audio-format', 'wav',
                 '--audio-quality', '5',  # Lower quality for faster processing
-                '--external-downloader-args', 'ffmpeg:-ss 0 -t 900',  # First 5 minutes only
+                '--external-downloader-args', 'ffmpeg:-ss 0 -t 1200',  # First 5 minutes only
                 '-o', f'audio_{video_id}.%(ext)s',
                 video_url
             ]
